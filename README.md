@@ -51,7 +51,8 @@ AxisCapture remembers these settings, so you won't repeat this.
 
 ## Good to know
 
-- Your settings are stored on your own PC, in `%APPDATA%\AUTCaptureAssistant`. Nothing is sent anywhere.
+- Your settings are stored on your own PC, in `%APPDATA%\AUTCaptureAssistant`. Nothing about you or your scans is sent anywhere.
+- **Updates:** at startup AxisCapture asks GitHub whether a newer version exists. If one does, it offers to open the download page. Download the new `AxisCapture.exe`, close the old one, and replace the file. Your settings carry over. Turn the check off in Setup > Options, or check by hand with right-click on the top strip > Check for updates now.
 - If you save over a name that already exists, the old files go to the Recycle Bin, so you can get them back.
 - Using AxisBuilder? Point it at the same folder and it will pick up the images.
 
